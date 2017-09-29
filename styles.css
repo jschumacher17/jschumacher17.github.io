@@ -2,6 +2,9 @@ h1 {
   color: red;
   font-size: 40px;
 }
+.header {
+  color: purple; 
+}
 img {
   width: 100px;
 }
