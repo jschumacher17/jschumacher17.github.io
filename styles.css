@@ -3,14 +3,7 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 .jumbotron h1{color:white;}
-.jumbotron h2{color:white;}
-
-.eat {background-image: url(sundial2l.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-}
-.eat h1{color:white;}
-.eat h2{color:white;}
+.jumbotron h2{color:white; font-style: italic;}
 
 body{font-family: 'Roboto', sans-serif;}
 h1 {
@@ -23,10 +16,12 @@ h1 {
 img {
   width: 100px;}
 h6 {
-  color: black;
-  font-size: 17px;
+  color: green;
+  font-size: 16px;
+  text-align: center;
 }
 h5 {
   color: black;
-  font-size: 20px;
+  text-align: center;
+  font-size: 16px;
 }
