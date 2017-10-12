@@ -1,11 +1,25 @@
+.jumbotron {background-image: url(Atlanta_Downtown_Skyline.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.jumbotron h1{color:white;}
+.jumbotron h2{color:white;}
+
 body{font-family: 'Roboto', sans-serif;}
 h1 {
-  color: red;
+  color: black;
   font-size: 40px;
 }
 .header {
   color: purple;
 }
 img {
-  width: 100px;
+  width: 100px;}
+h6 {
+  color: green;
+  font-size: 17px;
+}
+h5 {
+  color: black;
+  font-size: 20px;
 }
