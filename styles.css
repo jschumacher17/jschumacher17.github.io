@@ -5,6 +5,13 @@ background-size: cover;
 .jumbotron h1{color:white;}
 .jumbotron h2{color:white;}
 
+.eat {background-image: url(sundial2l.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.eat h1{color:white;}
+.eat h2{color:white;}
+
 body{font-family: 'Roboto', sans-serif;}
 h1 {
   color: black;
@@ -16,7 +23,7 @@ h1 {
 img {
   width: 100px;}
 h6 {
-  color: green;
+  color: black;
   font-size: 17px;
 }
 h5 {
